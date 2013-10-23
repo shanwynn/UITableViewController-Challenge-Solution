@@ -1,5 +1,5 @@
 //
-//  SWViewController.h
+//  SWTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Shannon Wynn on 10/22/13.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SWViewController : UIViewController
+@interface SWTableViewController : UITableViewController
 
 @end
